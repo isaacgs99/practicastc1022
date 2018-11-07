@@ -1,5 +1,13 @@
+-----------------------------------------------------
 Este es mi tarea hecha en el repositorio local
-jwehdjqewjkdnewjkbcjkbe
-
+jwehdjqewjkdnewjkbcjk
 
 Ahora si hice modificaciones sobre el repo local
+
+
+
+
+------------------------------------------------------
+
+Esta es la modificacion remota
+
