@@ -1,0 +1,131 @@
+commit 85a129e4acc4532e10cad59a791d3184112f4fba
+Merge: 252eceb 9008db4
+Author: isaacgs99 <A01025798@itesm.mx>
+Date:   Wed Nov 7 11:30:50 2018 -0600
+
+    resolvi los conflictos
+
+commit 252eceb9c0cc6054b12d265d308c9616e1d68bc3
+Author: isaacgs99 <A01025798@itesm.mx>
+Date:   Wed Nov 7 11:25:50 2018 -0600
+
+    actualizacion local
+
+commit 9008db428f4fc9f50d963e611cf84acbec0ad5ad
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Nov 7 11:24:54 2018 -0600
+
+    Update tarea10.txt
+    
+    modificacion remota de tarea 10
+
+commit f01fbaf8edae16ad23541c90b53e913381a77f98
+Merge: 1246d98 52d0bb4
+Author: isaacgs99 <A01025798@itesm.mx>
+Date:   Wed Nov 7 11:14:31 2018 -0600
+
+    Merge branch 'master' of http://github.com/isaacgs99/practicastc1022
+    
+    Este es merge es para combinar tarea10 local con tarea11 remota
+
+commit 52d0bb4f0373be6a3f6e00fcf80f75d062abed74
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Nov 7 11:12:49 2018 -0600
+
+    Create tarea 11.txt
+    
+    subi mi tarea en el repositorio remoto
+
+commit 1246d98e723f7d2249165ef13b9a2331cd81a33e
+Author: isaacgs99 <A01025798@itesm.mx>
+Date:   Wed Nov 7 11:10:50 2018 -0600
+
+    tarea local
+
+commit 9a11438e90c8680fd46289058b589df534800f1b
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Oct 24 12:51:39 2018 -0500
+
+    Add files via upload
+
+commit 0e5fe7bc5263611bb927896808eae1a16913684d
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Oct 24 12:20:13 2018 -0500
+
+    Add files via upload
+
+commit 7215787d0387b776e387a0dec86ad2c0523d597c
+Author: isaacgs99 <A01025798@itesm.mx>
+Date:   Wed Oct 24 11:38:19 2018 -0500
+
+    archivos de tarea encriptados
+
+commit 123bb283a5a1b295bc0d991447367eaa70cb472f
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Oct 24 11:33:42 2018 -0500
+
+    Add files via upload
+    
+    Tareas T1, T3, T4, T5.
+
+commit 0c78f540748eb0aa8317d82dac0d184194c3b98f
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Oct 24 11:29:47 2018 -0500
+
+    Delete Reporte Ciberseguridad.pdf
+
+commit 244582d4fd9410545ecedf94cf032c32ee2803b5
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Oct 24 11:29:36 2018 -0500
+
+    Delete Platicas CISCO.docx
+
+commit 8cb9f9fe72950415a8f1e3edd941aff04516c1d9
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Oct 24 11:29:28 2018 -0500
+
+    Delete Platica Drink IQ Isaac Garza.pdf
+
+commit cf366258e711c4d1e5dd57a572573b8b2e92a3e4
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Oct 24 11:29:19 2018 -0500
+
+    Delete Evento Facebook a01025798.docx
+
+commit 30bf08b7fe2f23dca5e43795f494fafe87adc265
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Oct 24 11:19:31 2018 -0500
+
+    Add files via upload
+
+commit 4a3ded9c8c7633a4cd08f00015a947eea5762efd
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Oct 24 11:17:56 2018 -0500
+
+    Add files via upload
+    
+    Tareas T1, T2, T4, T5
+
+commit 0b5d4fba445f8e5be22720148334c3cfa26a9891
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Oct 24 11:09:51 2018 -0500
+
+    Add files via upload
+
+commit fb636a3624a4588b3152d7c0b5d19d738a68446f
+Author: isaacgs99 <42215660+isaacgs99@users.noreply.github.com>
+Date:   Wed Oct 24 11:01:28 2018 -0500
+
+    Delete a01025798MyPrivateKey.gpg
+
+commit 5dccf5a46753a8cbe29a361e0fcee32bf387b071
+Author: isaacgs99 <A01025798@itesm.mx>
+Date:   Wed Oct 24 10:50:06 2018 -0500
+
+    exportar llaves publicas y provadas
+
+commit ceb7ba3dac083a08b1ffd123e7d3a72e6b1a7f96
+Author: isaacgs99 <A01025798@itesm.mx>
+Date:   Wed Oct 10 12:24:31 2018 -0500
+
+    mi primer commit
